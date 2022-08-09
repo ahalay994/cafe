@@ -1,0 +1,7 @@
+{
+  "name": "cafe-app",
+  "version": "1.0.0",
+  "scripts": {
+    "run": "cd app && npm run dev && cd .. && cd server && node index.ts"
+  }
+}

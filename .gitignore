@@ -1,0 +1,4 @@
+node_modules
+/server/private.pem
+/server/public.pem
+/server/logs/
